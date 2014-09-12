@@ -8,7 +8,7 @@ module HolaGem
   end
 
   def self.msg2
-    puts "msg2 - branch2"
+    puts "msg2 - master2"
   end
 
 end
